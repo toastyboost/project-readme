@@ -1,4 +1,4 @@
-# 🐣 Project name
+## 🐣 Project name
 
 ## commands 
 
