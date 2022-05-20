@@ -1,4 +1,6 @@
-## 🐣 Project name
+## 🐣 Project 
+
+Project description
 
 ## commands 
 
