@@ -1,14 +1,14 @@
 # 🐣 Project name
 
-# commands 
+## commands 
 
 `npm start` —
 `npm build` —
 
-# features
+## features
 
 - [ ] feature name
 
-# roadmap
+## roadmap
 
 - [ ] road item
